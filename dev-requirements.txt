@@ -1,0 +1,10 @@
+hvplot
+scikit-learn
+numpy
+matplotlib
+jupyterlab
+watermark
+pytest
+nbval
+pytest-cov
+scipy
